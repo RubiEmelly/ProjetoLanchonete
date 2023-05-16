@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Máterias 2023\\CSharp\\projetoLanchoneteAula\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj": {}
+    "C:\\Users\\Aluno\\Source\\Repos\\ProjetoLanchonete\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj": {}
   },
   "projects": {
-    "D:\\Máterias 2023\\CSharp\\projetoLanchoneteAula\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj": {
+    "C:\\Users\\Aluno\\Source\\Repos\\ProjetoLanchonete\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Máterias 2023\\CSharp\\projetoLanchoneteAula\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Source\\Repos\\ProjetoLanchonete\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj",
         "projectName": "projetoLanchoneteAula",
-        "projectPath": "D:\\Máterias 2023\\CSharp\\projetoLanchoneteAula\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Source\\Repos\\ProjetoLanchonete\\projetoLanchoneteAula\\projetoLanchoneteAula.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\Máterias 2023\\CSharp\\projetoLanchoneteAula\\projetoLanchoneteAula\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Source\\Repos\\ProjetoLanchonete\\projetoLanchoneteAula\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

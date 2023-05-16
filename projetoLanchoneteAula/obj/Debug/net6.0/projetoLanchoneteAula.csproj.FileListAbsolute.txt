@@ -60,3 +60,34 @@ D:\Máterias 2023\CSharp\projetoLanchoneteAula\projetoLanchoneteAula\obj\Debug\n
 D:\Máterias 2023\CSharp\projetoLanchoneteAula\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.pdb
 D:\Máterias 2023\CSharp\projetoLanchoneteAula\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.genruntimeconfig.cache
 D:\Máterias 2023\CSharp\projetoLanchoneteAula\projetoLanchoneteAula\obj\Debug\net6.0\ref\projetoLanchoneteAula.dll
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\appsettings.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\projetoLanchoneteAula.staticwebassets.runtime.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\projetoLanchoneteAula.exe
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\projetoLanchoneteAula.deps.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\projetoLanchoneteAula.runtimeconfig.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\projetoLanchoneteAula.dll
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\bin\Debug\net6.0\projetoLanchoneteAula.pdb
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.csproj.AssemblyReference.cache
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.AssemblyInfoInputs.cache
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.AssemblyInfo.cs
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.RazorAssemblyInfo.cache
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.RazorAssemblyInfo.cs
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\staticwebassets\msbuild.projetoLanchoneteAula.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\staticwebassets\msbuild.build.projetoLanchoneteAula.props
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.projetoLanchoneteAula.props
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.projetoLanchoneteAula.props
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\scopedcss\bundle\projetoLanchoneteAula.styles.css
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\scopedcss\projectbundle\projetoLanchoneteAula.bundle.scp.css
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.dll
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\refint\projetoLanchoneteAula.dll
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.pdb
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\projetoLanchoneteAula.genruntimeconfig.cache
+C:\Users\Aluno\Source\Repos\ProjetoLanchonete\projetoLanchoneteAula\obj\Debug\net6.0\ref\projetoLanchoneteAula.dll
